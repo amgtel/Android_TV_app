@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="gen_array_firebase">
+        <item>All</item>
+        <item>Generalist</item>
+        <item>Kids</item>
+        <item>Movie/Series</item>
+        <item>Musical</item>
+        <item>News</item>
+        <item>Sports</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="lang_array_firebase">
+        <item>German</item>
+        <item>English</item>
+        <item>Italian</item>
+        <item>Spanish</item>
+        <item>Latin</item>
+        <item>Brazilian</item>
+        <!--<item>French</item>-->
+    </string-array>
+
+
+    <string-array name="gen_array">
+        <item>All</item>
+        <item>Generalist</item>
+        <item>Kids</item>
+        <item>Movie/Series</item>
+        <item>Musical</item>
+        <item>News</item>
+        <item>Sports</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="lang_array">
+        <item>German</item>
+        <item>English</item>
+        <item>Italian</item>
+        <item>Spanish</item>
+        <item>Latin Spanish</item>
+        <item>Portuguese (Brazil)</item>
+        <!--<item>French</item>-->
+
+    </string-array>
+
+</resources>

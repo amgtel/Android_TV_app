@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="gen_array">
+        <item>Todos</item>
+        <item>Generalista</item>
+        <item>Infantil</item>
+        <item>Pelis/Series</item>
+        <item>Musical</item>
+        <item>Noticias</item>
+        <item>Deportes</item>
+        <item>Otros</item>
+    </string-array>
+
+    <string-array name="lang_array">
+        <item>Alemán</item>
+        <item>Inglés</item>
+        <item>Italiano</item>
+        <item>Español</item>
+        <item>Español Latino</item>
+    </string-array>
+
+
+</resources>

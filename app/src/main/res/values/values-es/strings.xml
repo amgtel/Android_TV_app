@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Strings MainActivity-->
+    <string name="app_name">TV Online</string>
+    <string name="languagechannels">Spanish</string>
+    <string name="errorconnectionmessage">Por favor, comprueba tu conexión a internet e inténtelo de nuevo.</string>
+
+    <string name="titleexitdialog">Salir de la App</string>
+    <string name="messageexitdialog">¿Quieres salir de la aplicación?</string>
+    <string name="positivebuttonexitdialog">Si</string>
+    <string name="negativebuttonexitdialog">No</string>
+
+
+    <!--Strings Wifidialogfragment-->
+    <string name="titlewifidialog">Red WI-FI no disponible</string>
+    <string name="messagewifidialog">La red WI-FI esta desactivada. Se recomienda
+                                    activarla para no consumir datos móviles.</string>
+    <string name="positivebuttonwifidialog">Si</string>
+    <string name="negativebuttonwifidialog">No</string>
+    <string name="messagecheckboxdialogwifi">No preguntar de nuevo.</string>
+
+
+    <!--String Videoplayer-->
+    <string name="messagepd">Cargando…</string>
+    <string name="messagepdad">Cargando…</string>
+    <string name="volume_icon">volumen_icon</string>
+
+
+    <!--Strings LoadErrorDialogFragment-->
+    <string name="titleloaderrordialog">Sin emisión.</string>
+    <string name="messageloaderrordialog">La emisión del canal no está disponible en
+                                        estos momentos.¿Intentar de nuevo?</string>
+    <string name="positivebuttonloaderrordialog">Si</string>
+    <string name="negativebuttonloaderrordialog">No</string>
+
+
+    <!--Strings DefaultlanguageDialog-->
+    <string name="titlelanguagedialog">Selecciona idioma de los canales por defecto</string>
+
+
+    <!--Strings navigationdrawer-->
+    <string name="action2"> Cambiar Idioma</string>
+
+    <string name="draweroption1">Versión Pro (Sin anuncios)</string>
+    <string name="draweroption2">¡Valóranos!</string>
+    <string name="draweroption3">Compartir</string>
+    <string name="draweroption4">Copyright</string>
+    <string name="draweroption5">Acerca de</string>
+    <string name="linkappfree">https://play.google.com/store/apps/details?id=com.amgsoftsol18.tvonlinefree</string>
+    <string name="linkapp_pro">Hola que ase pro</string>
+    <string name="positivebuttonloadaboutdialog">Aceptar</string>
+    <string name="beforelinkappfree">¡Ve la TV gratis en tu dispositivo android!</string>
+
+
+</resources>

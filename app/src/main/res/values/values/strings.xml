@@ -1,0 +1,77 @@
+<resources>
+
+    <!--Strings MainActivity-->
+    <string name="app_name">TV Online</string>
+    <string name="errorconnectionmessage">Please, check your internet connection and try again.</string>
+
+    <string name="titleexitdialog">Exit App</string>
+    <string name="messageexitdialog">Would you like to exit?</string>
+    <string name="positivebuttonexitdialog">Yes</string>
+    <string name="negativebuttonexitdialog">No</string>
+
+
+    <!--Strings Wifidialogfragment-->
+    <string name="titlewifidialog">WI-FI network unavailable</string>
+    <string name="messagewifidialog">The WI-FI network is deactivated. It is recommended to activate it
+        in order not to consume mobile data.</string>
+    <string name="positivebuttonwifidialog">Yes</string>
+    <string name="negativebuttonwifidialog">No</string>
+    <string name="messagecheckboxdialogwifi">Do not ask again</string>
+
+
+    <!--String Videoplayer-->
+    <string name="messagepd">Loading…</string>
+    <string name="messagepdad">Loading…</string>
+    <string name="volume_icon">volumen_icon</string>
+
+
+    <!--Strings LoadErrorDialogFragment-->
+    <string name="titleloaderrordialog">No broadcast.</string>
+    <string name="messageloaderrordialog">Channel broadcast is not available at this time. Try again?</string>
+    <string name="positivebuttonloaderrordialog">Yes</string>
+    <string name="negativebuttonloaderrordialog">No</string>
+
+    <!--Strings DefaultlanguageDialog-->
+    <string name="titlelanguagedialog">Select default language channels</string>
+
+
+    <!--Strings navigationdrawer-->
+    <string name="action2"> Change language </string>
+
+    <string name="draweroption1">Pro Version (No ads)</string>
+    <string name="draweroption2">Rate us!</string>
+    <string name="draweroption3">Share</string>
+    <string name="draweroption4">Copyright</string>
+    <string name="draweroption5">About</string>
+    <string name="linkappfree">https://play.google.com/store/apps/details?id=com.amgsoftsol18.tvonlinefree</string>
+    <string name="linkapp_pro">Hola que ase pro</string>
+    <string name="positivebuttonloadaboutdialog">OK</string>
+    <string name="beforelinkappfree">Watch TV for free on your android device!</string>
+
+
+    <string name="app_descrip">TV Online Pro will be available on Google Play soon as
+        a paid version without ads. Please consider Buy it if you like it and want
+        to support the development of the App. If you have any questions, problems
+        or ideas related to the application do not hesitate to contact me at amgsoftsol18@gmail.com</string>
+
+    
+
+    <string name="interstitialpusarcanal">ca-app-pub-4101422007494917/6764074626</string>
+    <string name="interstitialvolverdevideoplayer">ca-app-pub-4101422007494917/8174085569</string>
+    <string name="bannermainactivity">ca-app-pub-4101422007494917/5541604240</string>
+    <string name="bannervideopause">ca-app-pub-4101422007494917/9412157374</string>
+
+
+    <!--
+        Debug
+        interstitial debug ca-app-pub-3940256099942544/1033173712
+        banner debug ca-app-pub-3940256099942544/6300978111
+
+        Release
+        interstitialpulsarcanal ca-app-pub-4101422007494917/6764074626
+        interstitialvolvervideoplayer ca-app-pub-4101422007494917/8174085569
+        bannermainactivity  ca-app-pub-4101422007494917/5541604240
+        bannervideopause ca-app-pub-4101422007494917/9412157374
+
+    -->
+</resources>

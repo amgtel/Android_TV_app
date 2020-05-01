@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/media_action_2"
+            android:title="@string/action2"
+            android:icon="@drawable/defaultlang"
+            />
+
+        <!--  free version
+                <item
+                        android:id="@+id/menu_option_1"
+                        android:icon="@drawable/noads"
+                        android:title="@string/draweroption1"/>  -->
+
+            <item
+                android:id="@+id/menu_option_2"
+                android:icon="@drawable/rateus"
+                android:title="@string/draweroption2"/>
+
+            <item
+                android:id="@+id/menu_option_3"
+                android:icon="@drawable/share"
+                android:title="@string/draweroption3"/>
+
+            <item
+                android:id="@+id/menu_opcion_4"
+                android:icon="@drawable/copy"
+                android:title="@string/draweroption4"/>
+
+
+            <item
+                android:id="@+id/menu_opcion_5"
+                android:icon="@drawable/about"
+                android:title="@string/draweroption5"/>
+    </group>
+
+</menu>
